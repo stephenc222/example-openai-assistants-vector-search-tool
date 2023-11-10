@@ -1,0 +1,4 @@
+.env
+*.dylib
+*.sqlite
+__pycache__
